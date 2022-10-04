@@ -1,0 +1,186 @@
+{
+    "discounCoupon": {
+        "data": {
+            "response": {
+                "amountLimit": "0",
+                "buyerId": "801266176",
+                "grandTotal": "568.00000",
+                "lastUpdateDate": "2022-10-03T21:18:21.231Z",
+                "orderId": "424041874",
+                "orderItem": [
+                    {
+                        "CatalogEntryView": {
+                            "buyable": "true",
+                            "catEntField2": "130",
+                            "isMarketplace": false,
+                            "name": "Vela Aromática Frutos Rojos",
+                            "partNumber": "IM-4024533-0",
+                            "pathImages": [
+                                "https://cdn1.coppel.com/images/catalog/pm/4024533-1.jpg"
+                            ],
+                            "price": [
+                                {
+                                    "usage": "Display",
+                                    "value": "99.0"
+                                },
+                                {
+                                    "usage": "Offer",
+                                    "value": "99.0"
+                                }
+                            ],
+                            "price_coppel": "6/127/24",
+                            "uniqueID": "682462"
+                        },
+                        "comments": "",
+                        "createDate": "2022-10-03T17:29:52.258Z",
+                        "currency": "MXN",
+                        "discountApplied": "0",
+                        "lastUpdateDate": "2022-10-04T18:24:07.762Z",
+                        "orderItemId": "306490017",
+                        "orderItemInventoryStatus": "Unallocated",
+                        "orderItemPrice": "198.00000",
+                        "orderItemStatus": "P",
+                        "parentId": "682122",
+                        "quantity": "2.0",
+                        "rangeDeliveryDate": "2 a 7 días hábiles"
+                    },
+                    {
+                        "CatalogEntryView": {
+                            "buyable": "true",
+                            "catEntField2": "130",
+                            "isMarketplace": false,
+                            "name": "Set de Velas Aromáticas Rojo",
+                            "partNumber": "IM-4890013-0",
+                            "pathImages": [
+                                "https://cdn1.coppel.com/images/catalog/pm/4890013-1.jpg"
+                            ],
+                            "price": [
+                                {
+                                    "usage": "Display",
+                                    "value": "59.0"
+                                },
+                                {
+                                    "usage": "Offer",
+                                    "value": "59.0"
+                                }
+                            ],
+                            "price_coppel": "4/76/24",
+                            "uniqueID": "500732"
+                        },
+                        "comments": "",
+                        "createDate": "2022-10-03T17:29:40.943Z",
+                        "currency": "MXN",
+                        "discountApplied": "0",
+                        "lastUpdateDate": "2022-10-04T18:24:07.762Z",
+                        "orderItemId": "306490016",
+                        "orderItemInventoryStatus": "Unallocated",
+                        "orderItemPrice": "118.00000",
+                        "orderItemStatus": "P",
+                        "parentId": "500550",
+                        "quantity": "2.0",
+                        "rangeDeliveryDate": "2 a 7 días hábiles"
+                    },
+                    {
+                        "CatalogEntryView": {
+                            "buyable": "true",
+                            "catEntField2": "130",
+                            "isMarketplace": false,
+                            "name": "Vela Aromática Roja",
+                            "partNumber": "IM-4890183-0",
+                            "pathImages": [
+                                "https://cdn1.coppel.com/images/catalog/pm/4890183-1.jpg"
+                            ],
+                            "price": [
+                                {
+                                    "usage": "Display",
+                                    "value": "99.0"
+                                },
+                                {
+                                    "usage": "Offer",
+                                    "value": "99.0"
+                                }
+                            ],
+                            "price_coppel": "6/127/24",
+                            "uniqueID": "500731"
+                        },
+                        "comments": "",
+                        "createDate": "2022-10-03T17:29:27.607Z",
+                        "currency": "MXN",
+                        "discountApplied": "0",
+                        "lastUpdateDate": "2022-10-04T18:24:07.762Z",
+                        "orderItemId": "306490015",
+                        "orderItemInventoryStatus": "Unallocated",
+                        "orderItemPrice": "198.00000",
+                        "orderItemStatus": "P",
+                        "parentId": "500549",
+                        "quantity": "2.0",
+                        "rangeDeliveryDate": "2 a 7 días hábiles"
+                    },
+                    {
+                        "CatalogEntryView": {
+                            "buyable": "true",
+                            "catEntField2": "130",
+                            "isMarketplace": false,
+                            "name": "Vela Aromática Roja",
+                            "partNumber": "IM-4097583-0",
+                            "pathImages": [
+                                "https://cdn1.coppel.com/images/catalog/pm/4097583-1.jpg"
+                            ],
+                            "price": [
+                                {
+                                    "usage": "Display",
+                                    "value": "59.0"
+                                },
+                                {
+                                    "usage": "Offer",
+                                    "value": "59.0"
+                                }
+                            ],
+                            "price_coppel": "4/76/24",
+                            "uniqueID": "148711"
+                        },
+                        "comments": "",
+                        "createDate": "2022-10-03T17:29:08.084Z",
+                        "currency": "MXN",
+                        "discountApplied": "0",
+                        "lastUpdateDate": "2022-10-04T18:24:07.762Z",
+                        "orderItemId": "306490014",
+                        "orderItemInventoryStatus": "Unallocated",
+                        "orderItemPrice": "354.00000",
+                        "orderItemStatus": "P",
+                        "parentId": "130462",
+                        "quantity": "6.0",
+                        "rangeDeliveryDate": "2 a 7 días hábiles"
+                    }
+                ],
+                "orderStatus": "P",
+                "recordSetComplete": "true",
+                "recordSetCount": "4",
+                "recordSetStartNumber": "0",
+                "recordSetTotal": "4",
+                "saleResume": {
+                    "amountMin": "499",
+                    "discount": "300",
+                    "shippingCost": "0",
+                    "shippingTag": "0",
+                    "subtotal": "568",
+                    "total": "568",
+                    "coupon": {
+                        "couponDiscount": "-29.00000",
+                        "couponId": "100000024008",
+                        "couponName": "TESTCPNAPP07-10012501"
+                    }
+                },
+                "shipAsComplete": "true",
+                "totalAdjustment": "0.00000",
+                "totalProductPrice": "568.00000",
+                "totalProductQuantity": "12.0"
+            }
+        },
+        "meta": {
+            "id_transaction": "getCart_v1_endpointnats74c4c5bb5d2z4m8_ccu7khsmo0i8q63ihafgd3b3a6ad4e984f02b23859036218500a",
+            "status": "SUCCESS",
+            "time_elapsed": "354.511414ms"
+        }
+    }
+}
